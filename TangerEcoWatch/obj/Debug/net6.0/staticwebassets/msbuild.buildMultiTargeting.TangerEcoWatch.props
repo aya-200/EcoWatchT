@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TangerEcoWatch.props" />
+</Project>

@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TangerEcoWatch\\TangerEcoWatch\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TangerEcoWatch.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TangerEcoWatch.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TangerEcoWatch\\TangerEcoWatch\\wwwroot\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TangerEcoWatch\\TangerEcoWatch\\wwwroot\\assets\\img\\Tanger1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Tanger1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TangerEcoWatch\\TangerEcoWatch\\wwwroot\\assets\\img\\about-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TangerEcoWatch\\TangerEcoWatch\\wwwroot\\assets\\img\\contact-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\contact-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TangerEcoWatch\\TangerEcoWatch\\wwwroot\\assets\\img\\home-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TangerEcoWatch\\TangerEcoWatch\\wwwroot\\assets\\img\\post-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\post-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TangerEcoWatch\\TangerEcoWatch\\wwwroot\\assets\\img\\post-sample-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\post-sample-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TangerEcoWatch\\TangerEcoWatch\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TangerEcoWatch\\TangerEcoWatch\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TangerEcoWatch.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TangerEcoWatch.props",
+      "PackagePath": "build\\TangerEcoWatch.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TangerEcoWatch.props",
+      "PackagePath": "buildMultiTargeting\\TangerEcoWatch.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TangerEcoWatch.props",
+      "PackagePath": "buildTransitive\\TangerEcoWatch.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
